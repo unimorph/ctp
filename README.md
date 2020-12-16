@@ -1,6 +1,6 @@
 # Yaitepec Chatino (ctp)
 
-Contains Yaitepec Chatino
+Contains verbal paradigms for Yaitepec Chatino
 
 ## Data
 
