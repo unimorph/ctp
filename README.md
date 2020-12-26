@@ -1,9 +1,8 @@
 # Yaitepec Chatino (ctp)
 
-Contains verbal paradigms for Yaitepec Chatino
+Contains verbal paradigms for Yaitepec Chatino (Oto-Manguean)
 
 ## Data
-
 Source:
 [Surrey Morphology Group](https://oto-manguean.surrey.ac.uk/Search/CTP)
 
